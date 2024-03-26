@@ -59,6 +59,16 @@ There is a high overlap with organizations, you might be also interested in:
 - Add support for the following approaches: [ad-hoc thresholding](https://github.com/JuliaTrustworthyAI/CounterfactualExplanations.jl/issues/391), [Bayesian optimisation](https://github.com/JuliaTrustworthyAI/CounterfactualExplanations.jl/issues/392), [information-theoretic saliency](https://openreview.net/forum?id=IrEYkhuxup&noteId=IrEYkhuxup).
 - Comprehensively test and document your work
 
+## Project 3: Counterfactuals for LLMs (*Model Explainability* and *Generative AI*)
+
+**Project Overview:** This project aims to extend the functionality of [CounterfactualExplanations.jl](https://github.com/JuliaTrustworthyAI/CounterfactualExplanations.jl) to [Large Language Models](https://github.com/JuliaTrustworthyAI/CounterfactualExplanations.jl/issues/388). 
+
+**Mentor:** [Patrick Altmeyer](https://github.com/pat-alt) and [Jan Siml]
+
+**Project Difficulty**: Hard
+
+**Estimated Duration**: 350 hours
+
 ## About Us
 
 [Patrick Altmeyer](https://www.paltmeyer.com/) is a PhD Candidate in Trustworthy Artificial Intelligence at Delft University of Technology working on the intersection of Computer Science and Finance. He has presented work related to Taija at JuliaCon 2022 and 2023. In the past year, Patrick has mentored multiple groups of students at Delft University of Technology who have made major contributions to Taija. 
